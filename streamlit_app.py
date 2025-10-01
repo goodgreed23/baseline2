@@ -34,7 +34,7 @@ import shutil
 st.set_page_config(page_title="Therapist Chatbot Evaluation", page_icon=None, layout="centered", initial_sidebar_state="expanded", menu_items=None)
 
 # CONFIGS
-style_id = 7
+style_id = 6
 min_turns = 2   # number of turns to make before users can save the chat
 MODEL_SELECTED = "gpt-4o"
 
@@ -341,8 +341,8 @@ else:
         if not os.path.exists(created_files_path):
             os.makedirs(created_files_path)
 
-        file_name = "Unadapted_P{PID}.csv".format(PID=user_PID)
-        # file_name = "{style}_P{PID}.csv".format(style=target_styles[style_id], PID=user_PID)
+        #file_name = "Unadapted_P{PID}.csv".format(PID=user_PID)
+        file_name = "{style}_P{PID}.csv".format(style=target_styles[style_id], PID=user_PID)
         # st.write("file name is "+file_name)
 
         # chat_history_df.to_csv(file_name, index=False)
