@@ -6,7 +6,7 @@ definitions = ["Authoritative is the tendency to command or demand others in a c
                "Conversational dominance is the tendency to take the lead in a conversation and detremine its topics and directions.",
                "Informality is a tendency to talk casually and avoid being formal, distant, or stiff in a conversation.",
                "Conciseness is the tendency to use as few words as possible to clearly convey ideas and explain things in a conversation, and avoid being long-winded.",
-               "Unadaptedness is the tendency to communicate in a plain, neutral, and impersonal way, without stylistic variation."
+               "Unadaptedness is the tendency to communicate in a plain, neutral, and impersonal way, without stylistic variation.",
                "Agency-oriented is the tendency to communicate with confidence, structure, and directive guidance, emphasizing competence, control, and problem-solving in conversations.",
                "Communion-oriented is the tendency to communicate with warmth, empathy, and relational focus, emphasizing care, support, and emotional connection in conversations."
                ]
