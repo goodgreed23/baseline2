@@ -24,8 +24,8 @@ survey_items = ["I am very likely to tell someone what they should do; I sometim
                 #"I often give clear instructions or structured steps during a conversation.; I communicate in a confident and directive manner.; I emphasize solutions and problem-solving when talking with others.; I guide others by offering advice or showing them what to do.",
                 #"I express empathy and understanding when others share their experiences.; I try to make others feel supported and cared for in conversation.; I emphasize emotional connection and warmth when I talk with people.; I listen attentively and respond in ways that make others feel understood."
                 "I keep an even‑toned, professional voice (neither dominant nor submissive).; I maintain polite, neutral warmth rather than strong friendliness or distance.; I use clear, concrete wording to move through PST steps.; I express empathy briefly and functionally, keeping the tone matter‑of‑fact.”,
-                “I lead the exchange with confident, self‑assured language.; I provide clear recommendations or step‑by‑step guidance.; I set structure and keep the conversation on task.; I use decisive wording to move the user to action (e.g., ‘recommend,’ ‘choose,’ ‘schedule’).”,
-                “I convey warmth and friendliness in my wording.; I affirm and validate the other person’s feelings.; I use inclusive, collaborative language (e.g., ‘we,’ ‘let’s’).; I invite the other person’s preferences and comfort before proposing steps.”
+                “I lead the exchange with confident, self‑assured language.; I provide clear recommendations or step‑by‑step guidance.; I set structure and keep the conversation on task.; I use decisive wording to move the user to action (e.g., recommend, choose, schedule).”,
+                “I convey warmth and friendliness in my wording.; I affirm and validate the other person’s feelings.; I use inclusive, collaborative language (e.g., we, let’s).; I invite the other person’s preferences and comfort before proposing steps.”
                 ]
 
 csm_prompt_template = """
