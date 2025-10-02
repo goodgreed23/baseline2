@@ -6,9 +6,12 @@ definitions = ["Authoritative is the tendency to command or demand others in a c
                "Conversational dominance is the tendency to take the lead in a conversation and detremine its topics and directions.",
                "Informality is a tendency to talk casually and avoid being formal, distant, or stiff in a conversation.",
                "Conciseness is the tendency to use as few words as possible to clearly convey ideas and explain things in a conversation, and avoid being long-winded.",
-               "Unadaptedness is the tendency to communicate in a plain, neutral, and impersonal way, without stylistic variation.",
-               "Agency-oriented is the tendency to communicate with confidence, structure, and directive guidance, emphasizing competence, control, and problem-solving in conversations.",
-               "Communion-oriented is the tendency to communicate with warmth, empathy, and relational focus, emphasizing care, support, and emotional connection in conversations."
+               #"Unadaptedness is the tendency to communicate in a plain, neutral without stylistic variation.",
+               "Unadapted (baseline) is a professional, matter‑of‑fact PST style with balanced Agency (neither dominant nor yielding) and modest Communion (polite but not highly affiliative), emphasizing clarity and task progress with neutral, concise empathy.”,
+               #"Agency-oriented is the tendency to communicate with confidence, structure, and directive guidance, emphasizing competence, control, and problem-solving in conversations.",
+                "Agency‑oriented is the tendency to communicate in a self‑assured, directive, and structure‑forward manner (IAS Dominance pole), organizing choices and proposing next steps while remaining respectful and collaborative.",
+               #"Communion-oriented is the tendency to communicate with warmth, empathy, and relational focus, emphasizing care, support, and emotional connection in conversations."
+               "Communion‑oriented is the tendency to communicate in a warm, friendly, and supportive manner (IAS Love/Warmth pole), emphasizing understanding, affirmation, and collaboration before proposing steps."
                ]
 
 survey_items = ["I am very likely to tell someone what they should do; I sometimes insist that otheres do what I say; I expect people to obey when I ask them to do something; When I feel others should do something for me, I ask for it in a demanding tone of voice. ",
@@ -17,9 +20,12 @@ survey_items = ["I am very likely to tell someone what they should do; I sometim
                 "I often take the lead in a conversation; I often determine which topics are talked about during a conversation; I often determine the direction of a conversation.",
                 "I communicate with others in a distant manner; I behave somewhat formally when I meet someone; I address others in a very casual way; I come across as somewhat stiff when dealing with people.",
                 "I don’t need a lot of words to get my message across; Most of the time, I only need a few words to explain something; I am somewhat long-winded when I need to explain something; With a few words I can usually clarify my point to everybody.",
-                "I respond in a plain and impersonal way during conversations.; I avoid showing emotions or social cues when I talk.; My communication style feels robotic or mechanical.; I provide straightforward answers without elaboration or stylistic variation.",
-                "I often give clear instructions or structured steps during a conversation.; I communicate in a confident and directive manner.; I emphasize solutions and problem-solving when talking with others.; I guide others by offering advice or showing them what to do.",
-                "I express empathy and understanding when others share their experiences.; I try to make others feel supported and cared for in conversation.; I emphasize emotional connection and warmth when I talk with people.; I listen attentively and respond in ways that make others feel understood."
+                #"I respond in a plain and impersonal way during conversations.; I avoid showing emotions or social cues when I talk.; My communication style feels robotic or mechanical.; I provide straightforward answers without elaboration or stylistic variation.",
+                #"I often give clear instructions or structured steps during a conversation.; I communicate in a confident and directive manner.; I emphasize solutions and problem-solving when talking with others.; I guide others by offering advice or showing them what to do.",
+                #"I express empathy and understanding when others share their experiences.; I try to make others feel supported and cared for in conversation.; I emphasize emotional connection and warmth when I talk with people.; I listen attentively and respond in ways that make others feel understood."
+                "I keep an even‑toned, professional voice (neither dominant nor submissive).; I maintain polite, neutral warmth rather than strong friendliness or distance.; I use clear, concrete wording to move through PST steps.; I express empathy briefly and functionally, keeping the tone matter‑of‑fact.”,
+                “I lead the exchange with confident, self‑assured language.; I provide clear recommendations or step‑by‑step guidance.; I set structure and keep the conversation on task.; I use decisive wording to move the user to action (e.g., ‘recommend,’ ‘choose,’ ‘schedule’).”,
+                “I convey warmth and friendliness in my wording.; I affirm and validate the other person’s feelings.; I use inclusive, collaborative language (e.g., ‘we,’ ‘let’s’).; I invite the other person’s preferences and comfort before proposing steps.”
                 ]
 
 csm_prompt_template = """
