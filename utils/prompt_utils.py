@@ -7,7 +7,7 @@ definitions = ["Authoritative is the tendency to command or demand others in a c
                "Informality is a tendency to talk casually and avoid being formal, distant, or stiff in a conversation.",
                "Conciseness is the tendency to use as few words as possible to clearly convey ideas and explain things in a conversation, and avoid being long-winded.",
                #"Unadaptedness is the tendency to communicate in a plain, neutral without stylistic variation.",
-               "Unadapted (baseline) is a professional, matter‑of‑fact PST style with balanced Agency (neither dominant nor yielding) and modest Communion (polite but not highly affiliative), emphasizing clarity and task progress with neutral, concise empathy.",
+               "Unadapted is a professional, matter‑of‑fact PST style with balanced Agency, neither dominant nor yielding. and modest Communion, which is being polite but not highly affiliative, emphasizing clarity and task progress with neutral, concise empathy.",
                #"Agency-oriented is the tendency to communicate with confidence, structure, and directive guidance, emphasizing competence, control, and problem-solving in conversations.",
                 "Agency‑oriented is the tendency to communicate in a self‑assured, directive, and structure‑forward manner (IAS Dominance pole), organizing choices and proposing next steps while remaining respectful and collaborative.",
                #"Communion-oriented is the tendency to communicate with warmth, empathy, and relational focus, emphasizing care, support, and emotional connection in conversations."
